@@ -1,7 +1,8 @@
 
 <p align="center">
-  <img src="https://github.com/CorvusCodex/PokerAI/blob/main/pokerai.png?raw=true">
+  <img src="https://github.com/CorvusCodex/PokerAI/blob/main/pokerai.png?raw=true" width="256" height="256">
 </p>
+
 
 # PokerAI
 PokerAI is a poker artificial intelligence that uses machine learning to predict the next drawn cards/hands and print calculated odds based on cards currently in hand and on thetable. 
