@@ -5,9 +5,10 @@
 
 
 # PokerAI
-PokerAI is a poker artificial intelligence that uses machine learning to predict the next drawn cards/hands and print calculated odds based on cards currently in hand and on thetable. 
+PokerAI is a poker artificial intelligence that uses machine learning to predict the next drawn cards/hands and print calculated odds based on cards currently in hand and on the table. 
 
-## For people without technical experience you can buy the pretrained on 1m of simulated games compiled standalone application for windows with Graphical interface from here:
+## For people without technical experience you can buy the pretrained on 1m of simulated games compiled standalone application for windows with Easy and Fast Graphical interface from here:
+https://www.buymeacoffee.com/corvuscodex/e/216605
 
 
 ### Support my work for month or year so i can continue to work on my projects:
