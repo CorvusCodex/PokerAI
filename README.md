@@ -13,7 +13,7 @@ https://www.buymeacoffee.com/corvuscodex/e/216605
 
 ### Support my work for month or year so i can continue to work on my projects:
 https://www.buymeacoffee.com/corvuscodex/membership
-
+  
 ## Installation
 
 To install PokerAI, you will need to have Python 3.x and the following libraries installed:
